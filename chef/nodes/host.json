@@ -1,0 +1,11 @@
+{
+  "run_list": [
+    "base",
+    "apache",
+    "php",
+    "project"
+  ],
+  "automatic": {
+    "ipaddress": "your host"
+  }
+}
